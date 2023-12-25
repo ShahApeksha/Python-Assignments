@@ -1,0 +1,17 @@
+IMAGE MANIPULATION AND IMAGE DATA PROCESSING
+
+1. Image Loading and Display: Your program should allow users to load an image file 
+and display it. Ensure you use an image processing library like Pillow (PIL) to handle 
+image data.
+
+2. Image Manipulation: Implement at least two image manipulation operations, such 
+as:
+
+• Applying filters (e.g., Gaussian blur, edge detection).
+• Changing image dimensions or cropping.
+• Adjusting brightness, contrast, or saturation.
+• Converting to grayscale or other color spaces.
+
+3. Histogram Analysis: Implement a feature that calculates and displays histograms for 
+different color channels of the loaded image. Allow users to analyze and manipulate 
+histogram data.
